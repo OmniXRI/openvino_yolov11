@@ -1,5 +1,5 @@
 # openvino_yolov11
-如何使用 Intel OpenVINO 及 Ultralytics YOLOv11 完成姿態估測  
+如何使用 Intel OpenVINO 2024 及 Ultralytics YOLOv11 完成姿態估測  
 by Jack OmniXRI, 2024/10/15  
 
 **[完整Colab範例程式（點擊後可直接執行）](https://colab.research.google.com/github/OmniXRI/openvino_yolov11/blob/main/yolov11_keypoint_detection(sample).ipynb)**
